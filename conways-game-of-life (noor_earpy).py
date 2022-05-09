@@ -85,7 +85,7 @@ def main():
 # -----------------------------------------------------------------------------  
 
     window = tk.Tk()
-    window.title('Game of Life v3 - Ashish,Noor,Michael ')
+    window.title('Game of Life v3 - Noor Earpy')
     canvas = tk.Canvas(window, width=WIN_W, height=WIN_H)
     canvas.pack()
    
